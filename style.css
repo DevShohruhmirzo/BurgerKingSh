@@ -123,7 +123,12 @@
 }
 
 
-
+.banner{
+    width: 80%;
+    height: 400px;
+    margin: 20px auto;
+    background: url(https://media.licdn.com/dms/image/v2/C4D1BAQHjq4YdtLnVWA/company-background_10000/company-background_10000/0/1621499264572/burger_king_king_food_as__tgifridays_cover?e=2147483647&v=beta&t=b0CfM4DFnLIl0ka1JF7gCZLRNkiRqr90ZdIndAlei1Y) no-repeat center/cover;
+}
 
 
 
